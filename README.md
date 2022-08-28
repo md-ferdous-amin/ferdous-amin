@@ -1,4 +1,4 @@
-<img src="https://pm1.narvii.com/6181/9d1988be2c6722d75b5eccf08714bf63fae2040c_hq.jpg" alt="Paris" class="center">
+![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611201d89201ffce773ace4c902264fcd2901b8e2c3&rid=giphy.gif&ct=g)
 
 <h1 align="center">Hi 👋, I'm MD FERDOUS AMIN</h1>
 <h3 align="center">A passionate learner from Germany 🇩🇪, born in Bangladesh 🇧🇩.</h3>
