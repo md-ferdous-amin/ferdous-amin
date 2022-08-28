@@ -1,6 +1,8 @@
-![MasterHead](https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611201d89201ffce773ace4c902264fcd2901b8e2c3&rid=giphy.gif&ct=g)
+![MasterHead](https://www.gjar-po.sk/~katarina.mordavska8c/pics/loading.gif)
 
 <h1 align="center">Hi 👋, I'm MD FERDOUS AMIN</h1>
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611201d89201ffce773ace4c902264fcd2901b8e2c3&rid=giphy.gif&ct=g">
+
 <h3 align="center">A passionate learner from Germany 🇩🇪, born in Bangladesh 🇧🇩.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ferdous-amin&label=Profile%20views&color=0e75b6&style=flat" alt="ferdous-amin" /> </p>
